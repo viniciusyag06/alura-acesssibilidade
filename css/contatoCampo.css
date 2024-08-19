@@ -12,7 +12,7 @@
   width: 20px;
   height: 20px;
   text-align: center;
-  background-color: #fff;
+  background-color: #292828;
   transform: translate(-7px, -3px);
   border: 1px solid #7D7D7D;
   color: transparent;
@@ -27,11 +27,7 @@
 }
 
 .contatoCampo-checkbox {
-/*  display: none;*/
-/*  visibility: hidden*/
-  left: -9999px;
-  position: absolute;
-  opacity: 0;
+  display: none;
 }
 
 .contatoCampo-icone {

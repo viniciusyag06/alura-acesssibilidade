@@ -25,7 +25,7 @@
 }
 
 .secaoDestaque-cta {
-  background-color: transparent;
+  background-color:#616161;
   border: 1px solid #fff;
   font-size: 1em;
   width: 100%;
@@ -47,7 +47,7 @@
 @media (min-width: 830px) {
 
   .secaoDestaque {
-    background-image: url(../img/bg-intro.jpg);
+    background-image: url(../img/bg-intro.png);
   }
 
   .secaoDestaque-titulo {
